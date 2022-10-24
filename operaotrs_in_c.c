@@ -1,15 +1,17 @@
 
                                                                                    //Operators in C :-
 
-/*(a)Unary operator (needs one operand)
+/*
+
+(a)Unary operator (needs one operand)
 (b)Binary operators (needs two operands)
 (c) Ternary operators (needs three operands)
+
 */
-                     //1.	Unary operators.
-                       //         +, -, ++, --, sizeof()
+/*
 
-
-/*   int x=5;
+1.	Unary operators.[+, -, ++, --, sizeof()]
+int x=5;
 printf(“%d”,x);
 output : 5
 
